@@ -17,13 +17,13 @@
      position:absolute;    
      left:50%;
      transform:translate(-50%,20%);
-     background-image:url('image2.WEBP');
+     background-image:url('image2.webp');
      padding:50px 60px 70px;
     text-align:center;       
   }
   .for1{
      
-     background-image:url('image1.WEBP');
+     background-image:url('image1.webp');
      box-shadow :2px;
      font-size:30px;
      font-weight: bold;
